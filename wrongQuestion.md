@@ -56,6 +56,8 @@
   
   >读完题目想都没想就选了D选项，关于main方法的重载我会单独放在一个md中解释。
   
+  >[main方法重载](https://github.com/XingYu9902/Java_WrongQuestion/blob/master/overloadMain.md)
+  
   9.Given the uncompleted code of a class:
   
   ```Java
