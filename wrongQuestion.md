@@ -167,3 +167,5 @@ What is the result
   `D` hi, followed by an exception
   
   >正确答案：C ； m3.m1本质上是m2的，因此m4是真实存在的。而m2.m1没有赋值过，所以m5是null，因此无法调用m5.go(), 运行错误。
+  
+  12.局部变量不可以使用**static**关键字修饰，就是这样规定，至于原因还没找清楚...
